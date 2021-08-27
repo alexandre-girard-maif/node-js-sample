@@ -1,0 +1,23 @@
+{
+  "name": "js-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandre-girard-maif/node-js-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandre-girard-maif/node-js-sample/issues"
+  },
+  "homepage": "https://github.com/alexandre-girard-maif/node-js-sample#readme"
+}
