@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/dummy', (req, res) => {
-  let bar = ['foo','bar']
+  bar = ['foo','bar']
   for(foo in bar){
     console.log(foo)
   }
