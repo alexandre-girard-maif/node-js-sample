@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.19",
+    "url-parse": "^1.4.6"
   },
   "devDependencies": {},
   "scripts": {
