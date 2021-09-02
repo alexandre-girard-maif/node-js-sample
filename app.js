@@ -5,7 +5,7 @@ const port = 3000
 app.disable("x-powered-by");
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World to every one!')
 })
 
 app.get('/dummy', (req, res) => {
