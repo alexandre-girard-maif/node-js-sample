@@ -1,2 +1,0 @@
-Just a file with a token inside
-7575a7d45e415968e1423708e53367e8f47abd76
